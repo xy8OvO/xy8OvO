@@ -4,5 +4,5 @@
 
 
 <div align="center">
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xy8ovo)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xy8ovo)]
 </div>
