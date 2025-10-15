@@ -12,7 +12,7 @@
 <div align="center">
     <p> 当前境界 </p>
     <img src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight" width="30%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight">
 </div><br>
 
 
