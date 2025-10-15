@@ -2,7 +2,7 @@
 <h1>Hi 你好</h1>
 
 
-<p> 🦩 昂西 🦩</p>
+<p> 是个懒家伙 在努力修炼了</p>
 <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
 </div><br>
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xy8ovo)
