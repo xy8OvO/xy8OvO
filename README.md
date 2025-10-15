@@ -9,21 +9,21 @@
     <img src="https://github-immortality.vercel.app/api?username=xy8ovo">
 </div><br>
 
-<div align="center">
+<!-- <div align="center">
     <p> 当前境界 </p>
     <img src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight">
-</div><br>
+</div><br> -->
 
 
 <p>
   <img
   width="334"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-banana&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
   />
   <img
   width="507"
-  src="https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&&theme=radical&layout=compact"
+  src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&&theme=radical&layout=compact"
   />
 </p>
   
