@@ -15,7 +15,6 @@
       <img src="https://yu-readme.vercel.app/api/top-langs/?username=xy8ovo&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
     </td>
     <td align="center">
-      <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
       <img src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark">
     </td>
   </tr>
