@@ -9,20 +9,23 @@
     <img src="https://github-immortality.vercel.app/api?username=xy8ovo">
 </div><br>
 
-![info](https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight)
+<div align="center">
+    <p> 当前境界 </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight" width="30%">
+</div><br>
 
 
-  <tr>
-    <td align="center">
-      <img src="https://yu-readme.vercel.app/api/top-langs/?username=xy8ovo&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark">
-    </td>
-  </tr>
-
-
+<p>
+  <img
+  width="334"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-banana&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+  />
+  <img
+  width="507"
+  src="https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&&theme=radical&layout=compact"
+  />
+</p>
   
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xy8ovo&theme=high-contrast)
 
