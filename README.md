@@ -9,6 +9,17 @@
 ![info](https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight)
 
+
+  <tr>
+    <td align="center">
+      <img src="https://yu-readme.vercel.app/api/top-langs/?username=xy8ovo&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
+    </td>
+    <td align="center">
+      <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
+      <img src="[https://github-readme-streak-stats.herokuapp.com/?user=pseudoyu&theme=gotham](https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight)">
+    </td>
+  </tr>
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xy8ovo&theme=high-contrast)
 
 
