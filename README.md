@@ -1,7 +1,9 @@
 ### Hi there 👋,I'm zhe.
 
 
-
+<p> 🦩 昂西 🦩</p>
+<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800"  height="3">
+</div><br>
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xy8ovo)
 
 ![info](https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark)
