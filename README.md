@@ -16,7 +16,7 @@
     </td>
     <td align="center">
       <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
-      <img src="[https://github-readme-streak-stats.herokuapp.com/?user=pseudoyu&theme=gotham](https://github-readme-stats.vercel.app/api/top-langs/?username=xy8ovo&layout=compact&theme=tokyonight)">
+      <img src="https://github-readme-stats.vercel.app/api?username=xy8ovo&show_icons=true&count_private=true&hide=prs&theme=dark">
     </td>
   </tr>
 
